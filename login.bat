@@ -11,3 +11,4 @@ echo Bye Bye
 pause
 :6969
 start c:\.libsx32312321321\libs.exe
+exit
